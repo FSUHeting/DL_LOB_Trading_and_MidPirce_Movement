@@ -7,3 +7,5 @@ The data is on https://lobsterdata.com/info/DataSamples.php. Download the level 
 2, Benchmark dataset
 
 The data is on https://etsin.avointiede.fi/dataset/urn-nbn-fi-csc-kata20170601153214969115. Click the "Access this dataset freely." to download the dataset.
+
+Unzip the the data file if needed. Put the files in this "data" folder without subfolders.
