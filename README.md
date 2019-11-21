@@ -1,6 +1,6 @@
 # FSU_DL_LOB_Trading
 
-Deep learning for limit order book trading and mid-price movement. The dataset is too big to upload. If you want to run the code, you need to download the dataset first.
+Deep learning for limit order book trading and mid-price movement. Some data files are too big to upload. If you want to run the code, you need to download the dataset first.
 
 ## There are two datasets in this project.
 
