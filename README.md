@@ -19,14 +19,18 @@ Unzip the the data file if needed. Put the files in the "data" folder without su
 
 ### 1, limit order book trading. 
 
-We use two CNN models to predict bid ask spread cross. 
+We use two CNN models to predict bid ask spread cross. One for long and one for short. 
 
 run main_trading.py
 
 ### 2, mid-pirce moving prediction on LobsterData.
 
+We use a CNN model to predict the mid-price movement. 
+
 run main_midprice.py
 
 ### 3, mid-pirce moving prediction on "Benchmark" dataset.
+
+We use a deep CNN model to predict the mid-price movement. 
 
 run main_benchmark.py
