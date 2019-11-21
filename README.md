@@ -34,3 +34,6 @@ run main_midprice.py
 We use a deep CNN model to predict the mid-price movement. 
 
 run main_benchmark.py
+
+
+More details about the models can be found on the paper: 
