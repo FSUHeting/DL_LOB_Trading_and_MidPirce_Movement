@@ -17,6 +17,8 @@ Unzip the the data file if needed. Put the files in the "data" folder without su
 
 ## There are three experiments in this project.
 
+More details about the models can be found on the paper: Deep learning for Limit Order Book Trading and Mid-price Movement prediction.
+
 ### 1, limit order book trading. 
 
 We use two CNN models to predict bid ask spread cross. One for long and one for short. 
@@ -34,6 +36,3 @@ run main_midprice.py
 We use a deep CNN model to predict the mid-price movement. 
 
 run main_benchmark.py
-
-
-More details about the models can be found on the paper: 
