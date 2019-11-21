@@ -1,9 +1,8 @@
 # FSU_DL_LOB_Trading
-Deep learning for limit order book trading and mid-price movement.
 
+Deep learning for limit order book trading and mid-price movement. The dataset is too big to upload. If you want to run the code, you need to download the dataset first.
 
-
-* There are two datasets used in this project.
+## There are two datasets used in this project.
 
 1, LobsterData
 
@@ -16,7 +15,7 @@ The data is on https://etsin.avointiede.fi/dataset/urn-nbn-fi-csc-kata2017060115
 Unzip the the data file if needed. Put the files in the "data" folder without subfolders.
 
 
-* There are three experiments in this project.
+## There are three experiments in this project.
 
 1, limit order book trading.
 
